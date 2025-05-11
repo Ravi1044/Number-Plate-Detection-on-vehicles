@@ -16,3 +16,8 @@ Reading an Image
 7.Use Easy OCR to Read Text
 
 8.Render Results: Overlay Results on the Original Image
+#Brain tumor detection segmentation
+## Applications
+
+The application of brain tumor detection using computer vision enables early diagnosis, treatment planning, and monitoring of tumor progression. 
+By analyzing medical imaging data like MRI or CT scans, computer vision systems assist in accurately identifying brain tumors, aiding in timely medical intervention and personalized treatment strategies.
