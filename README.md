@@ -16,6 +16,7 @@ Reading an Image
 7.Use Easy OCR to Read Text
 
 8.Render Results: Overlay Results on the Original Image
+
 #Brain tumor detection segmentation
 ## Applications
 
