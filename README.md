@@ -17,7 +17,9 @@ Reading an Image
 
 8.Render Results: Overlay Results on the Original Image
 
-#Brain tumor detection segmentation
+# Brain Tumor Detection using Ultralytics YOLO11
+
+This notebook serves as an initial step for training the YOLO11 model.
 ## Applications
 
 The application of brain tumor detection using computer vision enables early diagnosis, treatment planning, and monitoring of tumor progression. 
