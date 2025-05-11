@@ -1,4 +1,5 @@
 #Project 1  Number-Plate-Detection-on-vehicles
+
 1.The implementation of ANPR is 
 divided into several small steps
 
@@ -18,6 +19,7 @@ Reading an Image
 8.Render Results: Overlay Results on the Original Image
 
 #Project 2  Brain Tumor Detection using Ultralytics YOLO11
+
 
 This notebook serves as an initial step for training the YOLO11 model.
 ## Applications
